@@ -25,6 +25,16 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+# PDFlow Engine 🚀
+
+Este es el **núcleo de procesamiento lógico** de la plataforma PDFlow. Desarrollado con NestJS, este motor se encarga de la gestión y manipulación de documentos.
+
+## 🔗 Ecosistema PDFlow
+* **Interfaz de Usuario (Frontend):** [PDFlow Client (Angular)](https://github.com/EnderLeonardo18/pdflow-client-angular)
+
+---
+
+
 ## Project setup
 
 ```bash
