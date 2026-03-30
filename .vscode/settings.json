@@ -1,0 +1,5 @@
+// Esto es para personalizar los iconos, y que de verdad se vea el nestjs
+{
+    "material-icon-theme.activeIconPack": "nest"
+}
+
